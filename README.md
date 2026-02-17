@@ -1,13 +1,24 @@
-# Caesar Cipher
+# 🔐 Caesar Cipher (Python)
 
-Work in progress.
+A simple Python implementation of the classic **Caesar Cipher** encryption technique.
 
-This is a Python implementation of the Caesar cipher.
+---
 
-✅ Supports:
-- Encryption
-- Decryption
-- Single combined caesar() function
-- Handles spaces and symbols
+## 🚀 Features
 
-More improvements will be added soon.
+- ✅ Encrypt text
+- ✅ Decrypt text
+- ✅ Single combined `caesar()` function
+- ✅ Preserves spaces, numbers, and symbols
+- ✅ Restart option (run multiple times)
+- ✅ Clean modular structure
+
+---
+
+## 📚 How It Works
+
+The Caesar Cipher shifts each letter in the alphabet by a given number.
+
+### Example (Shift = 2)
+
+Original:
